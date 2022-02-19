@@ -1,0 +1,1 @@
+# prediction_of_survival_people_from_Titanic_datasets
